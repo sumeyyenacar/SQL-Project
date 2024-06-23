@@ -1,3 +1,6 @@
+## Introduction
+
+Welcome to the Top Paying Data Analyst Jobs repository. This project aims to provide comprehensive insights into the data analyst job market, focusing on high-paying positions, essential skills, and in-demand expertise. By leveraging SQL queries and data analysis, we uncover key trends and actionable information for aspiring and current data analysts looking to enhance their careers.
 
 ### 1. Top Paying Data Analyst Jobs
 
